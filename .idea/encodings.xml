@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hdfs_contcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_contcat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_coustomer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_coustomer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_in_out_put_stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_in_out_put_stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_metthod/conf_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_metthod/conf_test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_metthod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_metthod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfs_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfscustom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdfscustom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://E:/java_mapper/mapreduce/fsdataio/src/main/java" charset="UTF-8" />
+    <file url="file://E:/java_mapper/mapreduce/fsdataio/src/main/resources" charset="UTF-8" />
+    <file url="file://E:/java_mapper/mapreduce/src/main/java" charset="UTF-8" />
+    <file url="file://E:/java_mapper/mapreduce/src/main/resources" charset="UTF-8" />
+    <file url="file://E:/java_mapper/mapreduce/src/main/resources/log4j.properties" charset="UTF-8" />
+    <file url="file://E:/java_play/java_play/src/main/java" charset="UTF-8" />
+    <file url="file://E:/java_play/java_play/src/main/resources" charset="UTF-8" />
+    <file url="file://E:/java_play/paly/src/main/java" charset="UTF-8" />
+    <file url="file://E:/java_play/paly/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
